@@ -5,7 +5,7 @@
 
 You can access the **Vendor Sales Data files** (dataset, Power BI dashboard, and notebook) directly from Google Drive:  
 
-👉 [![Open in Google Drive](https://img.shields.io/badge/Open%20in-Google%20Drive-blue?logo=googledrive)]([https://drive.google.com/your-drive-link-here](https://drive.google.com/file/d/1MqDFrfIciNtRixvQ_JDPnmP-2BjDyJxG/view?usp=sharing))
+👉 [![Open in Google Drive](https://img.shields.io/badge/Open%20in-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1MqDFrfIciNtRixvQ_JDPnmP-2BjDyJxG/view?usp=sharing)
 
 
 
