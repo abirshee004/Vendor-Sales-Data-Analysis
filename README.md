@@ -75,4 +75,11 @@ It helps identify **top vendors**, **low-performing brands**, and **profit oppor
 
 - Scatter Plot: Highlights Target Brands (low sales, high profit).
 
+
+![Power BI Dashboard]<img width="1122" height="630" alt="Power BI Vendor Sales" src="https://github.com/user-attachments/assets/6f38f0dd-b2e3-471e-a635-8090c8e5e232" />
+
+
+
+
+
 - Bar Charts: Display Top Vendors and Low-Performing Vendors for strategic insights.
