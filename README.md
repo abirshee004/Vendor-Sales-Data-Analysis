@@ -1,5 +1,14 @@
 # Vendor-Sales-Data-Analysis
 
+
+## 📂 Download or View Files  
+
+You can access the **Vendor Sales Data files** (dataset, Power BI dashboard, and notebook) directly from Google Drive:  
+
+👉 **[Click here to open Vendor Sales Data on Google Drive]((https://drive.google.com/file/d/1MqDFrfIciNtRixvQ_JDPnmP-2BjDyJxG/view?usp=sharing))**  
+
+
+
 # 📊 Vendor Sales Performance Analysis
 
 This project combines **Power BI** and **Python (Jupyter Notebook)** to analyze vendor and brand performance using sales and purchase data.  
